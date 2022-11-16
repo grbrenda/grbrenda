@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## Java QA Automation
 
-__Email:__ |__gribanoveu@yandex.ru__| 
+__Email:__ |__grbrenda@gmail.com__| 
 ---------|------------------|
-__Telegram:__| __eugene_grb__ |
+__Telegram:__| __grbrenda__ |
 
 ## 📄 Summary
 > #### Software Quality Test Engineer with expertise in Automation Testing in Web. Experience using testing tools like Cucumber, Selenium, WebDriver, REST Assured, Stress testing.
@@ -38,7 +38,7 @@ Property | Data
 
 Language | Level
 ---------|--------
-Russian  | native
+China    | native
 English  | B1 Intermediate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-grb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
