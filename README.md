@@ -41,7 +41,7 @@ Language | Level
 China    | native
 English  | B1 Intermediate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-grb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grbrenda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Education
 
